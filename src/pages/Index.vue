@@ -33,7 +33,7 @@
       <template v-else>
         <div class="col column text-center text-white">
           <div class="col text-h2 text-weight-thin">
-            Weather<br>App
+            Weather Detection<br>App
           </div>
           <q-btn class="col" flat @click="getLocation">
             <q-icon left size="3em" name="my_location" />
